@@ -11,7 +11,7 @@ This is a rule-based customer support chatbot built using Python and Streamlit, 
 - 🔍 Fuzzy matching with `difflib.get_close_matches()`
 - 🧠 Maintains chat history across session
 - 🎨 Styled chat bubbles for both user and bot
-- ☁️ Easy to deploy on Streamlit Cloud (no tunnels or servers required)
+- ☁️ Easy to deploy on Streamlit Cloud (no tunnels or servers required) link : [https://mycustomersupportchatbot.streamlit.app]
 
 ---
 
